@@ -1,0 +1,73 @@
+/* CSS files add styling rules to your content */
+
+.exchange{
+  width: 80vw;
+  max-heigh: 80vh;
+  background-color: #3f3f3f;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #000;
+  color: #fff;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+a:link {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+  color: #fff;
+}
+
+/* mouse over link */
+a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #fff;
+}
+
+/* start da css for da buttons */
+.btn {
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-size: 22px;
+  text-decoration: none;
+  margin: 20px;
+  color: #fff;
+  position: relative;
+  display: inline-block;
+}
+
+.btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+.orange{
+  background-color: #f46242;
+  box-shadow: 0px 5px 0px 0px #8e311c;
+}
+
+.orange:hover{
+  background-color: #ff9882;
+}
+
+/*====================*/
+
+diagram{
+  width: 90vh;
+}
