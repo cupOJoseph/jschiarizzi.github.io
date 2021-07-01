@@ -28,6 +28,7 @@ svg {
 
   .btn {
       position: fixed;
+      top: 50%;
       right: 0px;
       transform: translateX(-50%);
       border: 1px solid #fff;
