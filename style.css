@@ -1,8 +1,6 @@
-body{
-  background: #000;
-  color: #fff;
-}
-
+body {
+    background-color: #101010
+} 
   .btn {      
       transform: translateX(-50%);
       border: 1px solid #fff;
@@ -19,6 +17,6 @@ body{
 }
 
   .btn:hover {
-      background: #ffffff;
+      background: #907de8;
       color: #1B1734;
   }
