@@ -29,6 +29,7 @@ svg {
 
   .btn {
       position: fixed;
+      
       right: 0px;
       transform: translateX(-50%);
       border: 1px solid #fff;
@@ -43,6 +44,7 @@ svg {
       transition: all .3s;
       z-index: 11;
   }
+.1{bottom: 5%;} .2{bottom: 7%;} .3{bottom: 9%;} .4{bottom: 11%;} .5{bottom: 13%;} .6{bottom: 15%;} 
   
  .btnspan{
    display: grid;
