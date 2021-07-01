@@ -44,7 +44,7 @@ svg {
       transition: all .3s;
       z-index: 11;
   }
-.b1{bottom: 5%;} .b2{bottom: 7%;} .b3{bottom: 9%;} .b4{bottom: 11%;} .b5{bottom: 13%;} .b6{bottom: 15%;} 
+.b1{bottom: 5%;} .b2{bottom: 10%;} .b3{bottom: 15%;} .b4{bottom: 20%;} .b5{bottom: 25%;} .b6{bottom: 30%;} 
   
  .btnspan{
    display: grid;
