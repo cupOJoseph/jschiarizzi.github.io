@@ -24,7 +24,6 @@ svg {
 
   .btn {
       position: fixed;
-      bottom: 5%;
       right: 0px;
       transform: translateX(-50%);
       border: 1px solid #fff;
@@ -39,6 +38,10 @@ svg {
       transition: all .3s;
       z-index: 11;
   }
+
+  .btnfull{
+      bottom: 5%;
+}
 
   .btn_works {
       left: 150px;
