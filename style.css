@@ -44,7 +44,6 @@ svg {
       transition: all .3s;
       z-index: 11;
   }
-.b1{bottom: 5%;} .b2{bottom: 10%;} .b3{bottom: 15%;} .b4{bottom: 20%;} .b5{bottom: 25%;} .b6{bottom: 30%;} 
   
  .btnspan{
    display: grid;
@@ -55,7 +54,6 @@ svg {
 }
 
   .btn_works {
-      left: 150px;
       right: unset;
       text-decoration: none;
   }
